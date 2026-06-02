@@ -37,7 +37,7 @@
         <mxCell id="mbk-rPj3h4sSP7Hmz0fj-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.62;dx=27.2;direction=south;notch=0;labelBackgroundColor=none;fillColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="390" width="35" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mbk-rPj3h4sSP7Hmz0fj-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;深度分析阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="mbk-rPj3h4sSP7Hmz0fj-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;深度分析阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="430" width="560" height="250" as="geometry" />
         </mxCell>
       </root>
