@@ -7,6 +7,9 @@
         <mxCell id="n0iajssyJULv9iOB-tWj-1" value="问题提出与现实研判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n0iajssyJULv9iOB-tWj-2" value="问题提出与现实研判" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
