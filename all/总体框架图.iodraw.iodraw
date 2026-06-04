@@ -25,7 +25,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-15" value="物理风险 &amp;amp; 转型风险如何影响金融资产配置？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="130" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-16" value="物理风险 &amp;amp; 转型风险如何影响金融资产配置？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-16" value="是否存在传统金融资产超配 vs绿色金融资产低配？&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="180" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-21" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -154,6 +154,15 @@
             <mxPoint x="270" y="230" as="sourcePoint" />
             <mxPoint x="320" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-75" value="H1：双重风险独立及交互，正向影响配置偏差" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-76" value="H2：现金流/融资约束/风险偏好/转型预期&amp;nbsp;&lt;div&gt;中介传导机制成立&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="385.25" width="130" height="54.25" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-77" value="H3：产权/碳强度/区域 存在异质效应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="450.5" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
