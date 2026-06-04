@@ -58,7 +58,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-28" value="样本：高碳行业（煤炭/钢铁/石化等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="130" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-29" value="样本：高碳行业（煤炭/钢铁/石化等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-29" value="数据：CSMAR/Wind/气象等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="180" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
