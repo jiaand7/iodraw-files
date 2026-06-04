@@ -201,7 +201,7 @@
           <mxGeometry x="380" y="700" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-91" value="工具变量&lt;div&gt;厄尔尼诺指数&lt;/div&gt;&lt;div&gt;行业碳强度Bartik&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="610" width="170" height="40" as="geometry" />
+          <mxGeometry x="600" y="610" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-92" value="数据：CSMAR/Wind/气象等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="690" width="170" height="40" as="geometry" />
