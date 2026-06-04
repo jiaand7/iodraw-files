@@ -201,10 +201,10 @@
           <mxGeometry x="380" y="700" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-91" value="工具变量：&lt;span style=&quot;background-color: initial;&quot;&gt;厄尔尼诺指数&lt;/span&gt;&lt;div&gt;行业碳强度Bartik&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="610" width="170" height="40" as="geometry" />
+          <mxGeometry x="600" y="607" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-92" value="准自然实验：多期DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="170" height="40" as="geometry" />
+          <mxGeometry x="600" y="656" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="24oSu9xvzTn1LTX4wm0M-80" target="24oSu9xvzTn1LTX4wm0M-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -235,8 +235,8 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-98" value="被解释变量：传统超配、绿色缺口、结构错配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="702" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-100" value="准自然实验：多期DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="710" width="170" height="40" as="geometry" />
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-100" value="其他方法：变量替换、PSM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="703" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
