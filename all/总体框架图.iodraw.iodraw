@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="n0iajssyJULv9iOB-tWj-1" target="n0iajssyJULv9iOB-tWj-2">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="590" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="n0iajssyJULv9iOB-tWj-1" target="n0iajssyJULv9iOB-tWj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n0iajssyJULv9iOB-tWj-1" value="问题提出&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;与现状&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -18,9 +21,6 @@
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-2" value="理论机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="80" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="590" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
