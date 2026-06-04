@@ -197,7 +197,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-88" value="机制检验：中介效应（现金流/融资约束/风险偏好/转型预期）；调节效应（转型预期边界）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="610" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-89" value="越避险，越难转型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-89" value="异质性检验：分组回归（产权/碳强度/区域规制）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="700" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-91" value="工具变量：&lt;span style=&quot;background-color: initial;&quot;&gt;厄尔尼诺指数&lt;/span&gt;&lt;div&gt;行业碳强度Bartik&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
