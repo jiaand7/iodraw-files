@@ -22,6 +22,13 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-2" value="理论机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="680" width="80" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="24oSu9xvzTn1LTX4wm0M-17" target="24oSu9xvzTn1LTX4wm0M-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="100" width="190" height="130" as="geometry" />
         </mxCell>
@@ -33,9 +40,6 @@
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-16" value="物理风险 &amp;amp; 转型风险如何影响金融资产配置？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="180" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="24oSu9xvzTn1LTX4wm0M-21" target="24oSu9xvzTn1LTX4wm0M-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-21" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="370.5" y="100" width="190" height="130" as="geometry" />
