@@ -114,7 +114,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-60" value="转型预期调整" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="423.75" width="120" height="19.75" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-61" value="绿色转型理论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-61" value="配置偏差：&lt;div&gt;超配/缺口/错配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="463" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
