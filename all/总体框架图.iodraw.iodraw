@@ -241,7 +241,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-103" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130.5" y="800" width="669" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-104" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模式归纳与&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;政策优化&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-104" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模式归纳&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;政策优化&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="39.5" y="800" width="80" height="200" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -279,13 +279,6 @@
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-116" value="准自然实验：多期DID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="599.5" y="896" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="24oSu9xvzTn1LTX4wm0M-117" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="24oSu9xvzTn1LTX4wm0M-105" target="24oSu9xvzTn1LTX4wm0M-109">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269.5" y="950" as="sourcePoint" />
-            <mxPoint x="319.5" y="900" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
