@@ -195,10 +195,10 @@
           <mxGeometry x="625" y="569" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-88" value="传统金融资产过度增持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="604" width="170" height="30" as="geometry" />
+          <mxGeometry x="380" y="610" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-89" value="越避险，越难转型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="640" width="170" height="30" as="geometry" />
+          <mxGeometry x="380" y="700" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-91" value="样本：高碳行业（煤炭/钢铁等）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="610" width="170" height="40" as="geometry" />
