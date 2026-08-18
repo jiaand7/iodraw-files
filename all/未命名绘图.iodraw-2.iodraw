@@ -94,7 +94,7 @@
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-33" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;机制与异质性检验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="430" y="410" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q-ALYMdZz_2Havz4z1RJ-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传统绿色金融&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;适配性不足&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="q-ALYMdZz_2Havz4z1RJ-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IV+多期DID+&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;变量替换&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-35" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;内生性与稳健性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
