@@ -5,160 +5,163 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="220" y="81" width="550" height="120" as="geometry" />
+          <mxGeometry x="220" y="167" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;问题提出与&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;现状研判&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="70" y="81" width="110" height="120" as="geometry" />
+          <mxGeometry x="70" y="167" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传统绿色金融&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;适配性不足&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="234" y="111" width="165" height="80" as="geometry" />
+          <mxGeometry x="234" y="197" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-3" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;核心问题&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="91" width="130" height="30" as="geometry" />
+          <mxGeometry x="251.5" y="177" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;河南三高行业&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;转型特征&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="111" width="165" height="80" as="geometry" />
+          <mxGeometry x="412.5" y="197" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;典型事实&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="430" y="91" width="130" height="30" as="geometry" />
+          <mxGeometry x="430" y="177" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-14" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;微观A股上市&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;+&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;地市面板&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="590" y="111" width="165" height="80" as="geometry" />
+          <mxGeometry x="590" y="197" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-15" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;样本与数据&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="91" width="130" height="30" as="geometry" />
+          <mxGeometry x="607.5" y="177" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-2" target="q-ALYMdZz_2Havz4z1RJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="271" as="sourcePoint" />
-            <mxPoint x="440" y="221" as="targetPoint" />
+            <mxPoint x="390" y="357" as="sourcePoint" />
+            <mxPoint x="440" y="307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="271" as="sourcePoint" />
-            <mxPoint x="125" y="241" as="targetPoint" />
+            <mxPoint x="110" y="357" as="sourcePoint" />
+            <mxPoint x="125" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="201" as="sourcePoint" />
-            <mxPoint x="490" y="241" as="targetPoint" />
+            <mxPoint x="490" y="287" as="sourcePoint" />
+            <mxPoint x="490" y="327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="220" y="241" width="550" height="120" as="geometry" />
+          <mxGeometry x="220" y="327" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;理论机制与&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;研究假设&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="70" y="241" width="110" height="120" as="geometry" />
+          <mxGeometry x="70" y="327" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-21" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;信息经济学&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;金融发展理论&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="234" y="271" width="165" height="80" as="geometry" />
+          <mxGeometry x="234" y="357" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-22" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;理论基底&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="251" width="130" height="30" as="geometry" />
+          <mxGeometry x="251.5" y="337" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;信息不对称&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;融资约束&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;绿色创新&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="271" width="165" height="80" as="geometry" />
+          <mxGeometry x="412.5" y="357" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-24" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传导逻辑&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="430" y="251" width="130" height="30" as="geometry" />
+          <mxGeometry x="430" y="337" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;基准效应+&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;机制+异质性假设&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="590" y="271" width="165" height="80" as="geometry" />
+          <mxGeometry x="590" y="357" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-26" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;研究假设&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="251" width="130" height="30" as="geometry" />
+          <mxGeometry x="607.5" y="337" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-20" target="q-ALYMdZz_2Havz4z1RJ-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="431" as="sourcePoint" />
-            <mxPoint x="440" y="381" as="targetPoint" />
+            <mxPoint x="390" y="517" as="sourcePoint" />
+            <mxPoint x="440" y="467" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="220" y="401" width="550" height="120" as="geometry" />
+          <mxGeometry x="220" y="487" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;实证检验与&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;异质性分析&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="70" y="401" width="110" height="120" as="geometry" />
+          <mxGeometry x="70" y="487" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;双向固定效应&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;面板模型&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="234" y="431" width="165" height="80" as="geometry" />
+          <mxGeometry x="234" y="517" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-31" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;基准效应检验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="411" width="130" height="30" as="geometry" />
+          <mxGeometry x="251.5" y="497" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;中介效应&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分组回归&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="431" width="165" height="80" as="geometry" />
+          <mxGeometry x="412.5" y="517" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-33" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;机制与异质性检验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="430" y="411" width="130" height="30" as="geometry" />
+          <mxGeometry x="430" y="497" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;IV+多期DID+&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;变量替换&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="590" y="431" width="165" height="80" as="geometry" />
+          <mxGeometry x="590" y="517" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-35" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;内生性与稳健性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="411" width="130" height="30" as="geometry" />
+          <mxGeometry x="607.5" y="497" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-29" target="q-ALYMdZz_2Havz4z1RJ-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="591" as="sourcePoint" />
-            <mxPoint x="440" y="541" as="targetPoint" />
+            <mxPoint x="390" y="677" as="sourcePoint" />
+            <mxPoint x="440" y="627" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="124.5" y="361" as="sourcePoint" />
-            <mxPoint x="124.5" y="401" as="targetPoint" />
+            <mxPoint x="124.5" y="447" as="sourcePoint" />
+            <mxPoint x="124.5" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="494.5" y="361" as="sourcePoint" />
-            <mxPoint x="494.5" y="401" as="targetPoint" />
+            <mxPoint x="494.5" y="447" as="sourcePoint" />
+            <mxPoint x="494.5" y="487" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="125" y="521" as="sourcePoint" />
-            <mxPoint x="125" y="561" as="targetPoint" />
+            <mxPoint x="125" y="607" as="sourcePoint" />
+            <mxPoint x="125" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="521" as="sourcePoint" />
-            <mxPoint x="490" y="561" as="targetPoint" />
+            <mxPoint x="490" y="607" as="sourcePoint" />
+            <mxPoint x="490" y="647" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-41" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="220" y="561" width="550" height="120" as="geometry" />
+          <mxGeometry x="220" y="647" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;路径优化与&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;政策设计&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="70" y="561" width="110" height="120" as="geometry" />
+          <mxGeometry x="70" y="647" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-43" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;高耗电/&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;高耗煤模式&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="234" y="591" width="165" height="80" as="geometry" />
+          <mxGeometry x="234" y="677" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-44" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;差异化赋能模式提炼&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="251.5" y="571" width="130" height="30" as="geometry" />
+          <mxGeometry x="251.5" y="657" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;政策+金融+&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;企业三层&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="591" width="165" height="80" as="geometry" />
+          <mxGeometry x="412.5" y="677" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-46" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层优化路径设计&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="430" y="571" width="130" height="30" as="geometry" />
+          <mxGeometry x="430" y="657" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究报告&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;政策建议&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="590" y="591" width="165" height="80" as="geometry" />
+          <mxGeometry x="590" y="677" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-48" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;成果输出&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="571" width="130" height="30" as="geometry" />
+          <mxGeometry x="607.5" y="657" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-42" target="q-ALYMdZz_2Havz4z1RJ-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="751" as="sourcePoint" />
-            <mxPoint x="440" y="701" as="targetPoint" />
+            <mxPoint x="390" y="837" as="sourcePoint" />
+            <mxPoint x="440" y="787" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q-ALYMdZz_2Havz4z1RJ-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="230" y="177" width="550" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
