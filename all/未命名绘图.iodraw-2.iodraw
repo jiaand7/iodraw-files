@@ -82,7 +82,7 @@
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;实证检验与&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;异质性分析&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="110" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q-ALYMdZz_2Havz4z1RJ-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;传统绿色金融&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;适配性不足&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
+        <mxCell id="q-ALYMdZz_2Havz4z1RJ-30" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;双向固定效应&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;面板模型&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="234" y="430" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="q-ALYMdZz_2Havz4z1RJ-31" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;基准效应检验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#004C99;strokeColor=#004C99;" vertex="1" parent="1">
