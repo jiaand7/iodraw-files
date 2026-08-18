@@ -34,10 +34,10 @@
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q-ALYMdZz_2Havz4z1RJ-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-2">
+        <mxCell id="q-ALYMdZz_2Havz4z1RJ-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#004C99;" edge="1" parent="1" source="q-ALYMdZz_2Havz4z1RJ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="270" as="sourcePoint" />
-            <mxPoint x="160" y="220" as="targetPoint" />
+            <mxPoint x="125" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
