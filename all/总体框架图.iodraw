@@ -1,0 +1,295 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="VEGC39Sh6W1Zmnb0Iiag">
+    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="131" y="80" width="669" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" parent="1" source="n0iajssyJULv9iOB-tWj-1" target="n0iajssyJULv9iOB-tWj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n0iajssyJULv9iOB-tWj-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;问题提出&lt;/font&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;与现状&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n0iajssyJULv9iOB-tWj-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;理论机制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="80" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="151" y="100" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;核心问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="186" y="89" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-15" value="物理风险 &amp;amp; 转型风险如何影响金融资产配置？" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-16" value="是否存在传统金融资产超配 vs绿色金融资产低配？&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-21" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370.5" y="100" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;典型事实&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="405.5" y="89" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="100" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;样本与数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="625" y="89" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-25" value="传统金融资产过度增持" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="124" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-26" value="越避险，越难转型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="160" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-27" value="气候风险与财务数据逐步显现" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="195" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-28" value="样本：高碳行业（煤炭/钢铁等）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-29" value="数据：CSMAR/Wind/气象等" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="24oSu9xvzTn1LTX4wm0M-17" target="24oSu9xvzTn1LTX4wm0M-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="164" as="sourcePoint" />
+            <mxPoint x="591" y="164" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-37" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="130.5" y="280" width="669" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="299" y="301" width="321" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="151" y="301" width="139" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;理论基底&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="183.5" y="290" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-47" value="财务储备理论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="330" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-50" value="投资替代理论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="374.25" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-51" value="融资约束理论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="420" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-52" value="转型规制理论" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="464" width="119" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-54" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;传导逻辑&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="399.5" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-55" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="460" y="341" width="144" height="109.5" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-56" value="动机权衡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="472" y="330" width="120" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-57" value="现金流波动加剧" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="354.5" width="120" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-58" value="融资约束强化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="378.25" width="120" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-59" value="风险偏好下降" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="402.5" width="120" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-60" value="避险动机增强" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="472" y="426.25" width="120" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-61" value="&amp;nbsp; &amp;nbsp;配置偏差：&lt;div&gt;超配/缺口/错配&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="399" y="470" width="120.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-62" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="306" y="341" width="134" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-63" value="双重气候风险" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="318" y="330" width="102" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-64" value="物理风险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="370" width="102" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-65" value="转型风险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="318" y="410" width="102" height="19.75" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="397" as="sourcePoint" />
+            <mxPoint x="460" y="397" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-67" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.437;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="24oSu9xvzTn1LTX4wm0M-61" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="451" y="451" as="sourcePoint" />
+            <mxPoint x="470" y="407" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="631" y="301" width="149" height="209" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;研究假设&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="668.5" y="290" width="74" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="24oSu9xvzTn1LTX4wm0M-11" target="24oSu9xvzTn1LTX4wm0M-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-75" value="H1：双重风险独立及交互，正向影响配置偏差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="640" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-76" value="H2：现金流/融资约束/风险偏好/转型预期&amp;nbsp;&lt;div&gt;中介传导机制成立&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="385.25" width="130" height="54.25" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-77" value="H3：产权/碳强度/区域 存在异质效应" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="450.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-78" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="131" y="560" width="669" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-79" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;实证分析&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="560" width="80" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="151" y="580" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基准效应检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="186" y="569" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-82" value="双向固定效应面板模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="606" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-83" value="核心解释变量：物理风险、转型风险及二者交互项" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="654" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-84" value="&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370.5" y="580" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;机制与异质性检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="397.75" y="569" width="134.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-86" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="580" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;内生性与稳健性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="625" y="569" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-88" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;中介效应：现金流、融资约束、风险偏好&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;调节效应：转型预期&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="380" y="610" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-89" value="异质性检验：分组回归（产权/碳强度/区域规制）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="690" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-91" value="工具变量：&lt;span style=&quot;background-color: initial;&quot;&gt;厄尔尼诺指数&lt;/span&gt;&lt;div&gt;行业碳强度Bartik&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="607" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-92" value="准自然实验：多期DID" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="656" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="24oSu9xvzTn1LTX4wm0M-80" target="24oSu9xvzTn1LTX4wm0M-84" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="710" as="sourcePoint" />
+            <mxPoint x="320" y="660" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="561" y="664" as="sourcePoint" />
+            <mxPoint x="591" y="664" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-96" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.5" y="520" as="sourcePoint" />
+            <mxPoint x="79.5" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466" y="520" as="sourcePoint" />
+            <mxPoint x="465" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-98" value="被解释变量：传统超配、绿色缺口、结构错配" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="161" y="702" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-100" value="其他方法：变量替换、PSM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="703" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-103" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="131" y="800" width="669" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-104" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;模式提炼路径研究&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="39.5" y="800" width="80" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150.5" y="820" width="629.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-106" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;基准效应检验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="405" y="809" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-107" value="避险主导型（高风险-低转型）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="166" y="846" width="189" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-108" value="转型滞后型（低风险-高惯性）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370.5" y="846" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-119" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="79" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-120" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.5" y="760" as="sourcePoint" />
+            <mxPoint x="464.5" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-121" value="结构失衡型（风险与转型错配）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575" y="846" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150.25" y="923" width="629.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-124" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分层优化路径研究&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="392.87" y="908" width="145.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-125" value="企业内控路径分析" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165.75" y="949" width="189" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-126" value="绿色金融适配评估" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370.25" y="949" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-127" value="碳规制协同检验" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="574.75" y="949" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24oSu9xvzTn1LTX4wm0M-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="24oSu9xvzTn1LTX4wm0M-103" target="24oSu9xvzTn1LTX4wm0M-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
