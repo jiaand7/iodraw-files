@@ -154,7 +154,7 @@
         <mxCell id="24oSu9xvzTn1LTX4wm0M-74" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="24oSu9xvzTn1LTX4wm0M-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="230" as="sourcePoint" />
-            <mxPoint x="465" y="280" as="targetPoint" />
+            <mxPoint x="465" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="24oSu9xvzTn1LTX4wm0M-75" value="H1：双重风险独立及交互，正向影响配置偏差" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
